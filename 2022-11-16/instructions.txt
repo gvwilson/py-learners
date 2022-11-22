@@ -1,0 +1,11 @@
+Putting It All Together
+
+You have been given two CSV data files called luminance-001.csv and luminance-002.csv with readings from a pair of 4x4 plates.
+
+1.  Read the two files and combines them to create a single dataframe with four columns: row_id, col_id, and reading (from the data), and plate_id (which should be 1 or 2).
+
+2.  Create a plot showing the readings for each plate.
+
+3.  Calculate the mean reading for each plate.
+
+4.  Calculate the mean reading for the central 4 cells of each plate.
